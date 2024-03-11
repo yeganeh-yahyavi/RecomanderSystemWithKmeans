@@ -1,0 +1,54 @@
+,user_id,movie_id,rating,time,movie_name
+0,user_1,movie_1193,5,978300760,One Flew Over the Cuckoo's Nest (1975)
+46,user_1,movie_1029,5,978302205,Dumbo (1941)
+40,user_1,movie_1,5,978824268,Toy Story (1995)
+18,user_1,movie_3105,5,978301713,Awakenings (1990)
+41,user_1,movie_1961,5,978301590,Rain Man (1988)
+23,user_1,movie_527,5,978824195,Schindler's List (1993)
+37,user_1,movie_1022,5,978300055,Cinderella (1950)
+14,user_1,movie_1035,5,978301753,"Sound of Music, The (1965)"
+25,user_1,movie_48,5,978824351,Pocahontas (1995)
+45,user_1,movie_1028,5,978301777,Mary Poppins (1964)
+10,user_1,movie_595,5,978824268,Beauty and the Beast (1991)
+22,user_1,movie_1270,5,978300055,Back to the Future (1985)
+36,user_1,movie_1836,5,978300172,"Last Days of Disco, The (1998)"
+48,user_1,movie_2028,5,978301619,Saving Private Ryan (1998)
+7,user_1,movie_2804,5,978300719,"Christmas Story, A (1983)"
+6,user_1,movie_1287,5,978302039,Ben-Hur (1959)
+4,user_1,movie_2355,5,978824291,"Bug's Life, A (1998)"
+39,user_1,movie_150,5,978301777,Apollo 13 (1995)
+35,user_1,movie_783,4,978824291,"Hunchback of Notre Dame, The (1996)"
+34,user_1,movie_1907,4,978824330,Mulan (1998)
+33,user_1,movie_588,4,978824268,Aladdin (1992)
+43,user_1,movie_2692,4,978301570,Run Lola Run (Lola rennt) (1998)
+38,user_1,movie_2762,4,978302091,"Sixth Sense, The (1999)"
+42,user_1,movie_1962,4,978301753,Driving Miss Daisy (1989)
+31,user_1,movie_3186,4,978300019,"Girl, Interrupted (1999)"
+44,user_1,movie_260,4,978300760,Star Wars: Episode IV - A New Hope (1977)
+47,user_1,movie_1207,4,978300719,To Kill a Mockingbird (1962)
+49,user_1,movie_531,4,978302149,"Secret Garden, The (1993)"
+50,user_1,movie_3114,4,978302174,Toy Story 2 (1999)
+51,user_1,movie_608,4,978301398,Fargo (1996)
+32,user_1,movie_1566,4,978824330,Hercules (1997)
+26,user_1,movie_1097,4,978301953,E.T. the Extra-Terrestrial (1982)
+30,user_1,movie_2294,4,978824291,Antz (1998)
+17,user_1,movie_2018,4,978301777,Bambi (1942)
+3,user_1,movie_3408,4,978300275,Erin Brockovich (2000)
+8,user_1,movie_594,4,978302268,Snow White and the Seven Dwarfs (1937)
+9,user_1,movie_919,4,978301368,"Wizard of Oz, The (1939)"
+11,user_1,movie_938,4,978301752,Gigi (1958)
+12,user_1,movie_2398,4,978302281,Miracle on 34th Street (1947)
+13,user_1,movie_2918,4,978302124,Ferris Bueller's Day Off (1986)
+15,user_1,movie_2791,4,978302188,Airplane! (1980)
+52,user_1,movie_1246,4,978302091,Dead Poets Society (1989)
+19,user_1,movie_2797,4,978302039,Big (1988)
+27,user_1,movie_1721,4,978300055,Titanic (1997)
+28,user_1,movie_1545,4,978824139,Ponette (1996)
+29,user_1,movie_745,3,978824268,"Close Shave, A (1995)"
+20,user_1,movie_2321,3,978302205,Pleasantville (1998)
+21,user_1,movie_720,3,978300760,Wallace & Gromit: The Best of Aardman Animation (1996)
+24,user_1,movie_2340,3,978300103,Meet Joe Black (1998)
+1,user_1,movie_661,3,978302109,James and the Giant Peach (1996)
+5,user_1,movie_1197,3,978302268,"Princess Bride, The (1987)"
+2,user_1,movie_914,3,978301968,My Fair Lady (1964)
+16,user_1,movie_2687,3,978824268,Tarzan (1999)
